@@ -10,7 +10,6 @@ A Flappy Bird clone where an AI learns to play autonomously using **Q-Learning R
   <img src="demo.gif" width="700">
 </p>
 
-> _(Replace `demo.gif` with your gameplay recording.)_
 
 ---
 
