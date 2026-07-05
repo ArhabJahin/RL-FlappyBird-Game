@@ -1,0 +1,8 @@
+episodes=6545
+best_score=5
+total_steps=1545639
+total_updates=1545639
+epsilon=0.02000000
+alpha=0.16000000
+gamma=0.92000000
+last_saved=2026-07-06 03:12:42
